@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="hero_image">heroImage</string>
+    <string name="udacity_side_basnner">udacity side banner</string>
+    <string name="play_button">play button</string>
+    <string name="hero_heading">Udacity Online Courses</string>
+    <string name="email_id">www.udacity.com</string>
+    <string name="joining_button">Join Today</string>
+    <string name="product_line">productline</string>
+    <string name="button_courses">Courses</string>
+    <string name="courses_ml">machinelearning</string>
+    <string name="courses_py">python</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="python_foundations">Python Foundations</string>
+    <string name="button_learnmore">Learn More</string>
+    <string name="contact_us">Udacity</string>
+    <string name="address_line1">2465 Latham St</string>
+    <string name="address_lin2">Mountain View, CA 94043</string>
+    <string name="phone_number">650-555-5555</string>
+</resources>
